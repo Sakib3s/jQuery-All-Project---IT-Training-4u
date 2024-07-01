@@ -6,7 +6,7 @@ jQuery(function ($) {
     // Jquery Ripple
     $('.ripple-effect').ripples({
         resolution: 700,
-        dropRadius: 20,
+        dropRadius: 10,
         perturbance: 0,
     });
 
